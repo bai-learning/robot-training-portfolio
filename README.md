@@ -19,7 +19,9 @@
 
 - 实物替代件对照记录：docs/W1-实物替代件对照.md（本文档即第一条真实任务记录）
 - 团队仓 BOM：hardware/BOM-v1.md
-- 团队仓 PR：【提交后补 PR 链接】
+- 团队仓 PR #6：https://github.com/ou02080159/sesame-robot-team/pull/6
+- 团队仓 Issue #5：https://github.com/ou02080159/sesame-robot-team/issues/5
+
 - 本周个人周报：见团队仓 reports/ 小组周报汇总
 
 ## W2 计划
