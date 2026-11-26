@@ -13,14 +13,15 @@ W1 / 到货验收入库、BOM v1 定稿、W1 收尾与呈交
 2. 用本人账号核对团队仓（ou02080159/sesame-robot-team）访问与提交权限，确认可用。
 3. 参加组内同步交接会（11/23），明确外出期间到货、现场记录与收尾由本人负责。
 4. 跟进全部采购件到货并验收入库，逐项核验型号、数量、外观与尺寸，全部合格：8 个舵机核 180° 标注、金属齿轮与舵盘适配；KCD1 开关开孔尺寸（19×12mm）对照上盖 STL（19.18×11.98mm）确认可安装；LOLIN S2 Mini 核板型（V1.0.0，USB-C）与排针。核验记录见团队仓 hardware/BOM-v1.md。
-5. BOM v1 定稿：已下单商品与上游 BOM 逐项对照，记录实际型号、数量、价格、运费及到货状态，含替代件差异对照（对标部件—差异—风险—验证方式）与预算汇总（报价测算 401.03 元，组内目标 1,500 元内）。文件：团队仓 hardware/BOM-v1.md。
-6. 梳理实训手册：明确六周任务路线、四个验收关口与每周周期性事务（周报/GitHub/网站登记/采购审批）。
+5. BOM v1 定稿：已下单商品与上游 BOM 逐项对照，记录实际型号、数量、价格、运费及到货状态，含替代件差异对照（对标部件—差异—风险—验证方式）与预算汇总（总价 353.11 元 = 优先度一 317.14 + 优先度二 35.97，含 SSD1306 OLED 2 块 23.70；优先度三按需备件 71.62 不计入）。文件：团队仓 hardware/BOM-v1.md。
+6. 参与 3D 打印零件制作与组装：全部打印件已打印完成，并完成部分结构组装与尺寸适配核对。
+7. 梳理实训手册：明确六周任务路线、四个验收关口与每周周期性事务（周报/GitHub/网站登记/采购审批）。
 
 ## PR、Commit 或版本链接
-个人 GitHub 账号 `bai-learning`；个人仓库：https://github.com/bai-learning/robot-training-portfolio 。已提交 W1 第一条真实任务记录：个人 README 与 `docs/W1-实物替代件对照.md`，记录 BOM 整理、到货验收及替代件核对。团队仓 BOM v1 与 W1 任务书通过 `feat/linruitin-bom` 分支提交 PR #6：https://github.com/ou02080159/sesame-robot-team/pull/6 。
+个人 GitHub 账号 `bai-learning`；个人仓库：https://github.com/bai-learning/robot-training-portfolio 。已提交 W1 第一条真实任务记录：个人 README 与 `docs/W1-实物替代件对照.md`，记录 BOM 整理、到货验收及替代件核对。团队仓 BOM v1 与 W1 任务书通过 `bai-learning` 分支提交 PR #7：https://github.com/ou02080159/sesame-robot-team/pull/7 。
 
 ## 实验或演示证据链接
-本周无带电实验。证据为到货验收记录与 BOM 对照：团队仓 hardware/BOM-v1.md（到货核验状态列）。
+本周无带电实验。证据为到货验收记录与 BOM 对照：团队仓 hardware/BOM-v1.md（到货核验状态列）；3D 打印件与组装实物照片【照片待补入个人仓库】。
 
 ## 遇到的故障与已验证原因
 设备故障：无。
