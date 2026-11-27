@@ -6,7 +6,7 @@
 - 团队仓库：https://github.com/ou02080159/sesame-robot-team
 - 复现基线：dorianborian/sesame-robot @ 449ad1e237fa419f575ea1bb183716134e02310c（Apache-2.0）
 - 组内角色：到货验收、现场记录、收尾与 BOM
-- 使用工具：Arduino IDE / ESP32（W2 起）、WPS 表格、Git、AI 助手（辅助阅读手册与整理文档）
+- 使用工具：Arduino IDE / ESP32（W2 起）、WPS 表格、Git、GPT（辅助阅读手册与整理文档）
 
 ## W1 本人完成的工作
 
@@ -14,16 +14,22 @@
 2. 跟进全部采购件到货并验收入库，逐项核型号、数量、外观、尺寸，全部合格
 3. BOM v1 定稿：与上游 BOM 逐项对照，记录型号、数量、价格、运费、到货状态，补替代件差异对照与预算汇总
 4. 梳理实训手册的六周任务路线与每周周期性事务
-5.  - [W1 个人周报](reports/W1.md)
+5. 补登团队 W1 周报个人贡献行，整理 W2 待办与依赖
+
+## 个人周报
+
+- [W1 个人周报](W1)
+- 团队仓 W1 周报（个人贡献登记）：[reports/W1.md](https://github.com/ou02080159/sesame-robot-team/blob/main/reports/W1.md)
 
 ## 可核验证据
 
-- 实物替代件对照记录：docs/W1-实物替代件对照.md（本文档即第一条真实任务记录）
-- 团队仓 BOM：hardware/BOM-v1.md
-- 团队仓 PR #6：https://github.com/ou02080159/sesame-robot-team/pull/6
+- 实物替代件对照记录：[docs/W1-实物替代件对照.md](docs/W1-实物替代件对照.md)（本文档即第一条真实任务记录）
+- 团队仓 BOM：[hardware/BOM-v1.md](https://github.com/ou02080159/sesame-robot-team/blob/main/hardware/BOM-v1.md)
 - 团队仓 Issue #5：https://github.com/ou02080159/sesame-robot-team/issues/5
-
-- 本周个人周报：见团队仓 reports/ 小组周报汇总
+- 团队仓 Issue #11：https://github.com/ou02080159/sesame-robot-team/issues/11
+- 团队仓 PR #6：https://github.com/ou02080159/sesame-robot-team/pull/6
+- 团队仓 PR #7：https://github.com/ou02080159/sesame-robot-team/pull/7
+- 团队仓 PR #12（W1 收尾登记）：https://github.com/ou02080159/sesame-robot-team/pull/12
 
 ## W2 计划
 
